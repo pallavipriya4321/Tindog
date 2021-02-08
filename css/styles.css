@@ -1,0 +1,152 @@
+#title{
+    background-color: #ff4c68;
+    padding: 0 3rem 6rem;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+h1{
+font-family:monospace;
+font-weight: bolder;
+font-size: 4rem;
+line-height:1.5;
+color: #fff;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 250%;
+    font-family: "Ubuntu";
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding-right: 3rem;
+    font-style:initial;
+    font-size: 20px;
+}
+button{
+    margin:5% 2.5%;
+}
+.image{
+    width:50%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+#features{
+    padding: 6rem 12rem;
+    text-align: center;
+    background-color: #fff;
+    z-index: 1;
+    position: relative;
+}
+h6{
+    padding: 4rem 15rem 0.5rem;
+    font-size: 45px;
+    font-weight:bolder;
+}
+k{
+    font-size: 20px;
+    color: lightslategrey;
+}
+p{
+    
+    color: rgb(146, 138, 138);
+    font-size: 20px;
+}
+
+h3{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Potta One', cursive;
+    font-size: 25px;
+}
+.icon{
+    color: #f76b80;
+    padding:0rem 0rem 2rem 0rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    text-align: center;
+   
+    background-color: #f76b80;
+    color: #ffffff;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: inherit;
+    line-height: 4rem;
+    padding: 0 2rem;
+    font-weight: bolder;
+}
+
+.testimonial-image{
+    margin: 5%;
+    width: 10%;
+    border-radius: 100%;
+  
+}
+#press{
+    background-color: #f76b80;
+    padding: 0rem 6rem;
+    text-align:center;
+}
+.logo{
+    width: 18%;
+    padding: 0 1.5rem 2rem;
+   
+}
+.carousel-item{
+    padding:5% 15%;
+}
+.card{
+    text-align: center;
+    margin: 3rem 1rem;
+}
+#pricing{
+    padding: 10px;
+    text-align: center;
+    margin: 0% 5%;
+}
+.pricing-col{
+    padding: 1.5% 2%;
+}
+@media(max-width:991.5px)
+{
+    .image{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 4rem 15rem ;
+}
+h4{
+   
+    font-size: 2.7rem;
+    color: #fff;
+    line-height: 1.5;
+    font-family: 'Coda Caption', sans-serif;
+    font-family: 'Merriweather', serif;
+    letter-spacing: 1px;
+    font-weight: bolder;
+}
+.cta-button{
+    text-align: center;
+    
+}
+#footer{
+    background-color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+.icon-footer{
+    margin:20px 10px;
+}
