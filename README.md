@@ -8,4 +8,4 @@ To view the site
 
 visit here👇
 
-https://compassionate-pare-3a6b0b.netlify.app
+https://confident-heyrovsky-06313b.netlify.app
